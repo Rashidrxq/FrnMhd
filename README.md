@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**FrnMhd/FrnMhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hey, I'm Muhammad Farhan 👋</h1>
 
-Here are some ideas to get you started:
+<p align="left">
+  🚀 Final-Year B.Tech (IT) | 💻 Full-Stack Developer | 📊 DevOps Enthusiast | Cloud  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+I'm a passionate developer who loves solving real-world problems through code. I'm constantly learning and growing.
+
+I'm currently:
+- 🔨 Build a **Sales Intelligence Forecasting System** using Python, ML, and Power BI
+- 🎯 Preparing for **tech internships**, full-time roles
+
+---
+
+### 💼 Tech I Work With
+
+- **Languages**: JavaScript, Python, PHP, SQL  
+- **Frontend**: React.js, Tailwind CSS, Bootstrap, Chart.js  
+- **Backend**: Node.js, Express, Flask  
+- **Database**: MongoDB, MySQL  
+- **Tools**: Power BI, Git, VS Code, Postman  
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|--------|
+| 🔮 [Sales Intelligence System](https://github.com/FrnMhd/BI-Vision-sales-forecasting) | Dashboard system for sales forecasting, preprocessing, and dashboarding |Tailwind CSS, Nodejs, Python(Prophet), Power BI |
+| 📊 [Interactive Dashboard CMS](http://www.cuiet.info/) | Dashboard with auth, file upload, Content Management System for College Website | PHP, Bootstrap, MySql |
+| 🏗️ [BuildTrack](#) | Construction workforce & inventory management system | PHP, MySQL, Bootstrap |
+| 🌐 [Portfolio Website](#) | Responsive portfolio to showcase my work | HTML, Tailwind CSS |
+
+
+
+---
+
+### 📫 Let’s Connect!
+
+- [LinkedIn](https://linkedin.com/in/farhanmp)  
+- 📧 Email: farhanmedappil@gmail.com  
+- 🌐 Portfolio: [](#)
+
+---
+
+
