@@ -2,7 +2,7 @@
 <h1 align="left">Hey, I'm Muhammad Farhan 👋</h1>
 
 <p align="left">
-  🚀 Final-Year B.Tech (IT) | 💻 Full-Stack Developer | 📊 DevOps Enthusiast | Cloud  
+  🚀 B.Tech (IT) | 💻 Full-Stack Developer | 📊 DevOps Enthusiast | Cloud  
 </p>
 
 ---
