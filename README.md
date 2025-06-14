@@ -34,7 +34,7 @@ I'm currently:
 | 🔮 [Sales Intelligence System](https://github.com/FrnMhd/BI-Vision-sales-forecasting) | Dashboard system for sales forecasting, preprocessing, and dashboarding |Tailwind CSS, Nodejs, Python(Prophet), Power BI |
 | 📊 [Interactive Dashboard CMS](http://www.cuiet.info/) | Dashboard with auth, file upload, Content Management System for College Website | PHP, Bootstrap, MySql |
 | 🏗️ [BuildTrack](#) | Construction workforce & inventory management system | PHP, MySQL, Bootstrap |
-| 🌐 [Portfolio Website](#) | Responsive portfolio to showcase my work | HTML, Tailwind CSS |
+| 🌐 [Portfolio Website](https://farhan-mp.vercel.app/) | Portfolio to showcase my work | Tailwind CSS, Nextjs |
 
 
 
@@ -42,9 +42,9 @@ I'm currently:
 
 ### 📫 Let’s Connect!
 
-- [LinkedIn](https://linkedin.com/in/farhanmp)  
-- 📧 Email: farhanmedappil@gmail.com  
-- 🌐 Portfolio: [](#)
+- 💼 LinkedIn[https://linkedin.com/in/farhanmp](https://linkedin.com/in/farhanmp)  
+- 📧 Email: [farhanmedappil@gmail.com](farhanmedappil@gmail.com)
+- 🌐 Portfolio: [https://farhan-mp.vercel.app/](https://farhan-mp.vercel.app/)
 
 ---
 
